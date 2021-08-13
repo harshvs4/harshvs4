@@ -1,7 +1,6 @@
-### Hi there 👋
+# ![harsh sharma header](https://github.com/harshvs4/harshvs4/blob/main/images/cover.png)
 
-
-
+### Hello, folks! 👋
 <!--
 **harshvs4/harshvs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
