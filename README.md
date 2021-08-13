@@ -64,7 +64,7 @@ You can find me on [![LinkedIn][1.2]][1].
   <img src="https://activity-graph.herokuapp.com/graph?username=harshvs4&theme=github">
 </a>
 
-## Have a laugh
+## Have a laugh <img src='https://github.com/harshvs4/harshvs4/blob/main/images/laughing_gif.gif' width='30px'>
 
 <img src="https://readme-jokes.vercel.app/api"> 
 <!-->
