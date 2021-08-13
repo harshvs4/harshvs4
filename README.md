@@ -64,6 +64,10 @@ You can find me on [![LinkedIn][1.2]][1].
   <img src="https://activity-graph.herokuapp.com/graph?username=harshvs4&theme=github">
 </a>
 
+## Have a laugh
+
+<img src="https://readme-jokes.vercel.app/api"> 
+<!-->
     
 <!--
 **harshvs4/harshvs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
