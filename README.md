@@ -1,6 +1,6 @@
 # ![harsh sharma header](https://github.com/harshvs4/harshvs4/blob/main/images/cover.png)
 
-### Hello, folks! 👋
+### Hello, folks!<img src="https://github.com/harshvs4/harshvs4/blob/main/images/waving_hand.gif" height="50px" width="50px">
 <!--
 **harshvs4/harshvs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
