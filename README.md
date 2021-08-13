@@ -6,7 +6,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: 
+[1.2]: https://github.com/harshvs4/harshvs4/blob/main/images/linkedin.png
 
 <!-- Links to your social media accounts -->
 
