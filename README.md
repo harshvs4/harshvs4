@@ -1,6 +1,7 @@
 # ![harsh sharma header](https://github.com/harshvs4/harshvs4/blob/main/images/cover.png)
 
 ### Hello, folks!<img src="https://github.com/harshvs4/harshvs4/blob/main/images/wave.gif" width="30px">
+---
 I am a third-year CSE(specialization in Data Science) undergraduate student at VIT Vellore with an interest in data science. I'm passionate about learning something new every day, solving problems, and fixing errors.
 You can find me on [![LinkedIn][1.2]][1].
 
