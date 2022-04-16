@@ -1,4 +1,4 @@
-# ![harsh sharma header](https://github.com/harshvs4/harshvs4/blob/main/images/cover.png)
+<!-- # ![harsh sharma header](https://github.com/harshvs4/harshvs4/blob/main/images/cover.png) -->
 
 ### Hello, folks!<img src="https://github.com/harshvs4/harshvs4/blob/main/images/wave.gif" width="30px">
 
