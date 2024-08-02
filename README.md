@@ -2,7 +2,9 @@
 
 ### Hello, folks!<img src="https://github.com/harshvs4/harshvs4/blob/main/images/wave.gif" width="30px">
 
-I am a final-year CSE(specialization in Data Science) undergraduate student at VIT Vellore with an interest in data science. I'm passionate about learning something new every day, solving problems, and fixing errors.
+I am currently a master's student at the National University of Singapore (NUS), specializing in Business Analytics. My academic journey began with a bachelor's degree in Computer Science, focusing on Data Science at VIT Vellore. Over the years, I have developed a strong passion for data science and technology, always eager to learn something new every day, solve complex problems, and fix errors.
+
+In my professional experience, I have worked as a Data Engineer at Eli Lilly, where I served as the technical SME and lead developer on a crucial project, collaborating with an international team. Additionally, I gained valuable insights into MLOps during my internship at Nokia Networks. These roles have allowed me to harness my skills in data engineering, machine learning, and operations, preparing me for future challenges in the tech industry.
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
