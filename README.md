@@ -5,7 +5,7 @@
 I am currently a master's student at the National University of Singapore (NUS), specializing in Business Analytics. My academic journey began with a bachelor's degree in Computer Science, focusing on Data Science at VIT Vellore. Over the years, I have developed a strong passion for data science and technology, always eager to learn something new every day, solve complex problems, and fix errors.
 
 In my professional experience, I have worked as a Data Engineer at Eli Lilly, where I served as the technical SME and lead developer on a crucial project, collaborating with an international team. Additionally, I gained valuable insights into MLOps during my internship at Nokia Networks. These roles have allowed me to harness my skills in data engineering, machine learning, and operations, preparing me for future challenges in the tech industry.
-You can find me on [![LinkedIn][1.2]][1].
+You can find me on  [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
@@ -30,9 +30,6 @@ You can find me on [![LinkedIn][1.2]][1].
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ## 👩‍💻Languages
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
